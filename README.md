@@ -12,7 +12,7 @@
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Phát Triển ứng dụng web
 * **Mã lớp:** IS207.N11.HTCL
-* **Năm học:** HK2 (2022 - 2023)
+* **Năm học:** HK1 (2022 - 2023)
 * **Giảng viên:** Ths. Mai Xuân Hùng
 ## GIỚI THIỆU NHÓM
 * **Số thứ tự nhóm:** 10
